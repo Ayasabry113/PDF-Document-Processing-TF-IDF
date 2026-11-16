@@ -19,15 +19,6 @@ The original assignment used PDFs stored in `/content/Task2`; this version uses 
 
 **Important:** Scanned/image-only PDFs may not contain an extractable text layer. OCR is not included in this project.
 
-## Project structure
-```text
-PDF-Document-Processing-TF-IDF/
-├── PDF_Document_Processing_TF_IDF.ipynb
-├── README.md
-├── requirements.txt
-└── pdf_documents/
-    └── your_pdf_files.pdf
-```
 
 ## Run locally
 ```bash
