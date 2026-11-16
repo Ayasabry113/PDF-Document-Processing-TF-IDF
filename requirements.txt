@@ -1,0 +1,6 @@
+PyPDF2
+nltk
+numpy
+pandas
+matplotlib
+jupyter
